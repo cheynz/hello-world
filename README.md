@@ -1,5 +1,5 @@
 # hello-world
 
-name - Maxim
-trying to learn programming and the like
-gl)
+Hello, people.
+
+cheynz is here. i trying learn to programming and the like.
